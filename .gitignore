@@ -1,0 +1,76 @@
+# Файлы данных
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.feather
+
+# Временные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Файлы сред
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Операционные системы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Логи
+*.log
+
+# Конфигурационные файлы с паролями
+config.ini
+credentials.json
+service_account.json
+
+# Файлы из проекта
+afisha_data_full.csv
+afisha_data_with_rub.csv
+afisha_data_preprocessed.csv
+user_profiles.csv
+user_profiles_filtered.csv
+*.png
