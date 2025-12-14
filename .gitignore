@@ -74,3 +74,4 @@ afisha_data_preprocessed.csv
 user_profiles.csv
 user_profiles_filtered.csv
 *.png
+backup_all_notebooks/
