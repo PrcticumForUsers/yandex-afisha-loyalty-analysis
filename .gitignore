@@ -75,3 +75,9 @@ user_profiles.csv
 user_profiles_filtered.csv
 *.png
 backup_all_notebooks/
+
+# Новые правила
+notebooks/.ipynb_checkpoints/
+data/
+results/
+project2.ipynb
